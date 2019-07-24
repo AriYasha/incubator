@@ -1,0 +1,2 @@
+insert into user (nameUser,surnameUser) values ("kostya","glebik"),("kostya","dronchenko"),("nina","glebik"),("rita","aleseenko"),("olga","chimanskaya"),("alexandr","avdeev"),("natasha","stelchenko"),("igor","andreev"),("artem","artem"),("pavel","medvedev");
+insert into account (account,idUser) values (454,1),(256,1),(123,1),(865,4),(34,5),(64,3),(754,7),(453,8),(453,9),(108,10)
